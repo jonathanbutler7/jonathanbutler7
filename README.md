@@ -11,7 +11,7 @@
 - 📫 Call me [beep me](https://jonathan-butler.herokuapp.com), [if you want to reach me](https://www.youtube.com/watch?v=s8muxst31cw)
 
 1️⃣ 👇 Want to see some of my best work with React?  
-2️⃣ 👇🏻 Want to see a fullstack app using loopback.io and Typescript?  
+2️⃣ 👇🏻 Want to see a fullstack app using Typescript and loopback.io?  
 3️⃣ 👇🏼 Want to see a well-tested Node.js/Express backend?  
 4️⃣ 👇🏽 Want to see a software robot I built?  
 
