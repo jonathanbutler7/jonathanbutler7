@@ -7,7 +7,7 @@
 - 🔭 Currently working on building a React app that helps unhoused youths schedule appointments with those who can offer stable housing 🏠
 - 🌱 Currently learning how to write meaningful code reviews
 - 💬 Let's talk work stuff...team dynamics
-- ⚡ Let's talk hobbies...coffee extraction rates ☕, hypertrophy training 💪, classical music 🎻
+- ⚡ Let's talk hobbies...coffee extraction rates ☕, hypertrophy-based training 💪, and classical music 🎻
 - 📫 Call me [beep me](https://jonathan-butler.herokuapp.com), [if you want to reach me](https://www.youtube.com/watch?v=s8muxst31cw)
 
 1️⃣ 👇 Want to see some of my best work with React?  
