@@ -2,7 +2,7 @@
 
 ### My name is Jonathan and I...
 
-...am a full stack software engineer with professional experience working as a full-stack developer and a team-lead for front-end devs in an Agile environment.
+...am a full stack software engineer based in Los Angeles with professional experience working as a full-stack developer and a team-lead for front-end devs in an Agile environment.
 
 - 🔭 Currently working on building a React app that helps unhoused youths schedule appointments with those who can offer stable housing 🏠
 - 🌱 Currently learning how to write meaningful code reviews
