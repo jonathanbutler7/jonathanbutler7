@@ -10,6 +10,8 @@
 - ⚡ Let's talk hobbies...coffee extraction rates ☕, hypertrophy-based training 💪, and classical music 🎻
 - 🖥️ Call me [beep me](https://jonathan-butler.herokuapp.com), [if you want to reach me](https://www.youtube.com/watch?v=s8muxst31cw)
 
+Let me show you some stuff I built...
+
 1️⃣ 👇 Want to see some of my best work with React?  
 2️⃣ 👇🏻 Want to see a fullstack app using Typescript and loopback.io?  
 3️⃣ 👇🏼 Want to see a well-tested Node.js/Express backend?  
