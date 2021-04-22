@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### My name is Jonathan and I...
+## My name is Jonathan and I...
 
-...am a software engineer based in Los Angeles with professional experience working as a full-stack developer and a team-lead for front-end devs in an Agile environment.
+...am a software engineer based in Los Angeles
 
 - ✍️ I work as a software engineer at [Weave](getweave.com)
 - 🏠 I volunteer as a frontend team lead, [building a calendaring tool that helps unhoused youths](https://homeunite.us/)
