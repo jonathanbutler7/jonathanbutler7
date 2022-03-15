@@ -2,7 +2,7 @@
 
 ### My name is Jonathan and I am a software engineer based in Los Angeles.
 
-✍️ I work as a software engineer at [Weave](https://getweave.com)
+✍️ I work as a frontend developer at [Weave](https://getweave.com)
 
 💬 Let's talk culture...
 - Team dynamics
