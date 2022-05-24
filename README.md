@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### My name is Jonathan and I am a software engineer based in Los Angeles.
+### My name is Jonathan and I am a software engineer based in Texas.
 
 ✍️ I work as a frontend developer at [Weave](https://getweave.com)
 
